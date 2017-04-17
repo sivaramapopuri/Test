@@ -4,7 +4,7 @@
 *
 *   Modification Log :
 ---------------------------------------------------------------------------
-    Developer               Date            Description
+    Developer               Date            Description..
 ---------------------------------------------------------------------------
     Nagaraju Chikka         05/18/2016      Created: CSR-0005369: Function Codes
     Nagaraju Chikka         08/25/2016      Updated code: Story 553514 - CSR-0006512 Restrict S3 function code to specific users
@@ -14,7 +14,7 @@ public class AccConFunctionCodeTriggerHandler {
     public static List<Account_Contact_Function_Code__c> acfcsLst = new List<Account_Contact_Function_Code__c>();
     
     /**
-    * Constructor to initialize
+    * Constructor to initialize...........................
     *
     * @param isExecuting    Has value of which context it is executing.
     */
