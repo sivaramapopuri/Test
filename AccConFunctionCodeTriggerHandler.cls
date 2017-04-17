@@ -14,7 +14,7 @@ public class AccConFunctionCodeTriggerHandler {
     public static List<Account_Contact_Function_Code__c> acfcsLst = new List<Account_Contact_Function_Code__c>();
     
     /**
-    * Constructor to initialize...........................
+    * Constructor to initialize...........................,.....
     *
     * @param isExecuting    Has value of which context it is executing.
     */
